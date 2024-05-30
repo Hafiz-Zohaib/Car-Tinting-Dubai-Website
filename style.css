@@ -222,3 +222,12 @@ color: #FFFFFF;
     text-align: center;
     
   }
+  .video-icon {
+    position: absolute;
+   margin-top: 250px;
+    left: 76%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    color:white;
+    
+}
